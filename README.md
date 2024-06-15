@@ -2,6 +2,10 @@
 This Calculator Application developed using Java Awt Package. 
 This calculator can be used as a simple calculator or as a complex calculator.
 
+#### Features
+1) Can solve complex calculations
+2) Memory Functions
+3) Easy to use
 
 #### Installation
 1) Clone the project
